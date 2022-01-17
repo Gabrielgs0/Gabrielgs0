@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gabrielgs0
-- 👀 I’m interested in: Desenvolvimento front end
+- 👀 I’m interested in: Desenvolvimento front end, back end
 - 🌱 I’m currently learning: desenvolvimento web
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me ...
