@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gabrielgs0
 - 👀 I’m interested in: Desenvolvimento front end, back end.
 - 🌱 I’m currently learning: desenvolvimento web.
-- 💞️ I’m looking to collaborate on: minhas habilidades e ideias.
+- 💞️ I’m looking to collaborate on: ideias e soluções
 - 📫 How to reach me ...
 
 <!---
