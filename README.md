@@ -1,6 +1,7 @@
-## Olá! Eu sou Gabriel Gonçalves  😄
+## Olá! Eu sou Gabriel Gonçalves 😄
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielgs0&show_icons=true&theme=dracula&count_private=true)
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielgs0&show_icons=true&theme=blue-green&count_private=true)
+
 
 ### meu site
 
