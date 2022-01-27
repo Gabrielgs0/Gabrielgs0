@@ -5,7 +5,7 @@
 
 ### meu site
 
-[![Portfolio](https://img.shields.io/website?label=https://https://gabrielgoncalvesportfolio.netlify.app//&style=for-the-badge&url=https://ggsportfolio.netlify.app//)](https://ggsportfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/website?label=https://https://gabrielgoncalvesportfolio.netlify.app//&style=for-the-badge&url=https://gabrielgoncalvesportfolio.netlify.app//)](https://ggsportfolio.netlify.app/)
 
 ### redes sociais
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-gon%C3%A7alves07/)
