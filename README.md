@@ -1,4 +1,4 @@
-## Olá! Eu sou Gabriel Gonçalves 😄 Sou Desenvolvedor Front End, Especializado em Desenvolvimento Web.
+## Olá! Eu sou Gabriel Gonçalves 😄 Sou Desenvolvedor Full Stack, Especializado em Desenvolvimento Web.
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielgs0&show_icons=true&theme=blue-green&count_private=true)
 
