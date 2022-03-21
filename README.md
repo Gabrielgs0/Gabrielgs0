@@ -1,6 +1,6 @@
 ## Olá! Eu sou Gabriel Gonçalves 😄 Sou Desenvolvedor Full Stack, Especializado em Desenvolvimento Web.
 
-
+![Snake animation](https://github.com/Gabrielgs0/Gabrielgs0/blob/output/github-contribution-grid-snake.svg)
 
 ### meu site
 
