@@ -25,6 +25,6 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
- ![Snake animation](https://github.com/edilaine-as/edilaine-as/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Gabrielgs0/Gabrielgs0/blob/output/github-contribution-grid-snake.svg)
 
 Amo tecnologia e inovação.
