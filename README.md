@@ -25,4 +25,4 @@
 </div><br/>
 
 
-Amo tecnologia e inovação.
+Apaixonado por tecnologia e inovação.
